@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you cite this whitepaper, please use the metadata below."
+title: "RENKER platform whitepaper: architecture, threat model and honest limitations of trusted infrastructure for autonomous AI"
+type: report
+authors:
+  - family-names: Renker
+    given-names: Sebastian
+license: CC-BY-4.0
+repository-code: "https://github.com/sebastianrenker/renker-whitepaper"
+url: "https://sebastianrenker.github.io/"
+keywords:
+  - AI agents
+  - threat model
+  - authorization
+  - audit
